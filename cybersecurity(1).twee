@@ -1,0 +1,243 @@
+:: StoryTitle
+cybersecurity
+
+
+:: StoryData
+{
+  "ifid": "46B0697D-704A-43CE-9DCE-4C6C9D64F886",
+  "format": "Chapbook",
+  "format-version": "2.3.0",
+  "start": "Początek",
+  "zoom": 1
+}
+
+
+:: Błąd 1 {"position":"275,400","size":"100,100"}
+**Błąd 1: Link prowadzi do fałszywej strony, która zbiera Twoje dane logowania! Twoje konto zostało skompromitowane. Padłeś ofiarą phishingu.** ❌
+
+***
+
+
+Jak można tego uniknąć?
+
+1. Przed zalogowaniem upewnij się, że adres zaczyna się od https:// i zawiera prawidłową domenę (np. zamiast paypal.com może być fałszywy paypa1.com)
+2. Nie klikaj podejrzanych linków – jeśli dostaniesz wiadomość o konieczności ***pilnego*** zalogowania się na konto, nie klikaj w linki w wiadomości.
+3. Weryfikuj nadawcę – Oszuści mogą podszywać się pod firmy, ale adres e-mail nadawcy często zdradza oszustwo (np. support@bank-security-alert.com zamiast support@bank.com).
+4. Nie podawaj danych przez e-mail/SMS – banki i firmy nigdy o to nie proszą.
+5. Włącz 2FA – Nawet jeśli Twoje hasło zostanie skradzione, drugi czynnik uwierzytelnienia (np. kod SMS lub aplikacja autoryzacyjna) może uratować Twoje konto.
+6. Korzystaj z antywirusa i filtrów – blokują fałszywe strony.
+7. Uważaj na błędy językowe – phishingowe wiadomości często zawierają literówki.
+
+{embed image: 'https://security.virginia.edu/sites/security/files/styles/scale_600/public/phish%20image_0.png?itok=rVkQtFHV'}
+
+***
+- [[Spróbuj ponownie|Poziom 1]] 
+- [[Na dziś mi starczy|Koniec]]
+
+
+:: Błąd 2 {"position":"575,400","size":"100,100"}
+**Błąd 2: Twoje hasło jest zbyt proste i łatwe do odgadnięcia! Twoje konto jest narażone na atak. Używaj silnych, unikalnych haseł.** ❌
+
+***
+
+
+Jak utworzyć silne hasło?
+
+Silne hasło zawiera:
+- Nie opiera się na słowie, ale na frazie
+- Przyzwyczaił się do co najmniej sześciu znaków, ale teraz szuka co najmniej dwunastu (im więcej znaków, tym silniejsze hasło)
+- Zawiera kombinację liter, cyfr i symboli
+- Cyfry od 0 do 9
+- Symbole (przykład: !"£$%^*&*)
+- Litery (od A do Z)
+- W większości haseł rozróżniane są wielkie i małe litery — tak więc kombinacja wielkich (od A do Z) i małych liter (od a do z)
+
+Pamiętaj:
+- Regularnie zmieniaj hasła - nowe hasło nie powinno być podobne do poprzedniego.
+- Twoje hasło nie powinno zawierać imion i nazwisk, nazw użytkownika, prawdziwych imion i nazwisk lub nazw firm itd. 
+- Nie zapisuj swojego hasła w pobliżu urządzenia na którym operujesz.
+
+***
+- [[Spróbuj ponownie|Poziom 2]]
+- [[Na dziś mi starczy|Koniec]]
+
+
+:: Błąd 3 {"position":"900,400","size":"100,100"}
+# **Błąd 3: Fałszywa wygrana! Twoje dane mogą zostać skradzione!** ❌
+
+***
+
+
+Kliknąłeś w wyskakujące okienko z informacją o rzekomej wygranej. Strona poprosiła Cię o dane osobowe lub numer karty, co może prowadzić do oszustwa. Nigdy nie ufaj ofertom, które wydają się zbyt dobre, by były prawdziwe!
+
+Jak tego uniknąć?
+- Nie klikaj w podejrzane okienka – jeśli coś wygląda zbyt dobrze, by było prawdziwe, to prawdopodobnie jest oszustwem.
+- Zamykaj reklamy ręcznie – użyj krzyżyka (X) w rogu okienka zamiast klikać w jego treść.
+- Korzystaj z blokera reklam – rozszerzenia do przeglądarek, jak uBlock Origin czy AdBlock, pomagają eliminować niechciane pop-upy.
+- Aktualizuj przeglądarkę i antywirusa – nowoczesne systemy bezpieczeństwa mogą blokować niebezpieczne treści.
+- Sprawdzaj wiarygodność konkursów – prawdziwe firmy nie rozdają drogich nagród przypadkowym użytkownikom internetu.
+
+Aby ograniczyć wyskakiwanie okienek o podejrzanej zawartości, możesz ściągnąć blockera reklam i wyskakujących okienek, np uBlock Origin, które jest bezpłatną wtyczką/rozszerzeniem dla większości przeglądarek. - https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=pl
+
+***
+- [[Spróbuj ponownie|Poziom 3]]
+- [[Na dziś mi starczy|Koniec]]
+
+
+:: Błąd 4 {"position":"1150,375","size":"100,100"}
+#**Błąd 4: Fałszywa wiadomość i "antywirus", który może ciebie szpiegować** ❌
+
+
+Jak tego uniknąć, wyjasniamy w zdjeciu poniżej
+{embed image: 'https://www.zenarmor.com/docs/assets/images/scareware-1c76b97894e9a4fb8af39d790b2e5ac5.png'}
+***
+- [[Spróbuj ponownie|Poziom 4]]
+- [[Na dziś mi starczy|Koniec]]
+
+
+:: Koniec {"position":"100,400","size":"100,100"}
+Dziękujemy za udział w naszej pasjonującej grze o cyberbezpieczeństwie
+{embed image: 'https://preview.redd.it/the-greatest-technician-thats-ever-lived-v0-2vntn64ay6ed1.jpeg?auto=webp&s=7ed32e76fb0045ccf6111eea7462098371ffdc5d'}
+***
+
+
+- [[Jednak chcę zagrać|Początek]]  
+
+
+:: Początek {"position":"100,200","size":"100,100"}
+# Witamy w grze: "Bezpieczny Internet"  
+
+***
+
+
+Internet to niesamowite miejsce, pełne informacji, rozrywki i możliwości. Niestety, to również przestrzeń, gdzie czyhają na ciebie różne zagrożenia.  
+
+Czy wiesz, jak się przed nimi chronić? Czy potrafisz rozpoznać phishing, stworzyć silne hasło, unikać fałszywych stron i zabezpieczyć swoje dane?  
+
+**Zasady gry:**  
+1. Na każdym poziomie wybieraj jedną z dwóch opcji.  
+2. Dobra decyzja przenosi Cię do kolejnego pytania, zła przenosi Cię do podstrony z wytłumaczeniem, co zrobiłeś źle, i odsyła cię z powrotem, byś mógł spróbować jeszcze raz.  
+3. Twoim celem jest uzyskanie poprawnej odpowiedzi na 5 pytań. 
+
+Czy jesteś gotowy?  
+
+- [[Zaczynam|Poziom 1]]  
+
+- [[Nie, chcę opuścić grę|Koniec]]
+
+
+
+
+
+
+:: Poziom 1 {"position":"275,200","size":"100,100"}
+# Poziom 1: Phishing 
+
+***
+
+
+Otrzymałeś e-mail:
+
+{embed image: 'https://securivy.com/wp-content/uploads/2021/05/COVID-19-phising-1400x449.png'}
+
+Co robisz?  
+
+- [[Wydaje Ci się to pilne, więc decydujesz się na kliknięcie, mimo że masz pewne wątpliwości.|Błąd 1]]  
+- [[Ignorujesz e-mail i zgłaszasz go do CERT (numer 8080, e-mail info@cert.pl)|Sukces 1]]
+
+
+:: Poziom 2 {"position":"575,225","size":"100,100"}
+Wybierz hasło spełniające wymogi bezpieczeństwa.
+
+***
+
+
+- [[1. 123456|Błąd 2]] 
+- [[2. lmgfIFS!25$2|Sukces 2]]
+
+
+:: Poziom 3 {"position":"925,200","size":"100,100"}
+# **Poziom 3**
+
+***
+
+
+Przeglądasz internet i surfując po stronie wyskakuje ci pop-up:
+
+{embed image: 'https://www.cyberprzestepczosc.info/images/loteria.jpg'}
+
+Co robisz?
+
+- [[Klikasz w link, cieszysz się z wygranego ipada i otwierasz szampana|Błąd 3]]  
+- [[Zamykasz pop up i ściągasz blockera reklam i pop-upów|Sukces 3]]
+
+
+:: Poziom 4 {"position":"1300,200","size":"100,100"}
+# **Poziom 4: Scareware**
+
+***
+
+
+Chillujesz sobie bombe, zajmujesz się swoimi sprawami w komputerze i wyskakuje ci takie okienko
+
+{embed image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Scareware_example_popup.webp/634px-Scareware_example_popup.webp.png'}
+
+Co robisz?
+
+- [[Klikasz w link, instalujesz oprogramowanie antywirusowe i się cieszysz że twój komputer jest chroniony|Błąd 4]]  
+- [[Zamykasz pop up i ściągasz antywirusa z oryginalnej stronki|Sukces 4]]
+
+
+:: Sukces 1 {"position":"425,200","size":"100,100"}
+# Sukces 1: Bezpieczeństwo Twoich danych ✅
+
+***
+
+
+Zgłosiłeś e-mail do administracji i postępujesz zgodnie z procedurami ochrony prywatności. Twoje konto nie zostało naruszone.
+
+Gratulacje! Udało Ci się uniknąć ataku phishingowego. Zgłoszenie podejrzanego e-maila i unikanie kliknięcia w linky to najlepsza praktyka. Dzięki temu chronisz siebie przed kradzieżą danych osobowych.
+
+{embed image: 'https://security.virginia.edu/sites/security/files/styles/scale_600/public/phish%20image_0.png?itok=rVkQtFHV'}
+
+***
+- [[Przejdź do kolejnego poziomu|Poziom 2]]
+- [[Na dziś mi starczy|Koniec]]
+
+
+:: Sukces 2 {"position":"750,200","size":"100,100"}
+# Sukces 2: Silne hasło, silna ochrona ✅
+
+***
+
+
+Stworzyłeś unikalne i trudne do złamania hasło, zawierające małe i wielkie litery, cyfry oraz znaki specjalne. Twoje konto jest dobrze zabezpieczone!
+
+Gratulacje! Używanie silnych haseł i ich regularna zmiana to klucz do ochrony Twoich danych. Nigdy nie używaj tego samego hasła w wielu serwisach, a Twoje konta pozostaną bezpieczne. 
+
+***
+- [[Przejdź do kolejnego poziomu|Poziom 3]]
+- [[Na dziś mi starczy|Koniec]]
+
+
+:: Sukces 3 {"position":"1100,200","size":"100,100"}
+#**Sukces 3: Nie dałeś się oszukać!** ✅
+
+***
+
+
+Zignorowałeś podejrzane okienko informujące o „wygranej” i nie kliknąłeś w link. Sprawdziłeś stronę w internecie i zauważyłeś, że to popularne oszustwo. Dzięki temu uniknąłeś wyłudzenia danych i potencjalnej straty pieniędzy! 🚀
+
+- [[Przejdź do kolejnego poziomu|Poziom 4]]
+- [[Na dziś mi starczy|Koniec]]
+
+
+:: Sukces 4 {"position":"1400,375","size":"100,100"}
+#**Sukces 4: Nie dałeś się oszukać!** ✅
+
+***
+
+
+Zignorowałeś podejrzane okienko informujące o "wirusach i zagrożeniach" na twoim komputerze. Żeby uniknąc takich wiadomości w przyszłości zalecamy zainstalowanie oryginalnego oprogramowania antywirusowego
+***Next level is work in progress***
+- [[Na dziś mi starczy|Koniec]]
